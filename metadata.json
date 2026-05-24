@@ -1,0 +1,6 @@
+{
+  "name": "Blog-Gadag",
+  "description": "A refined, vintage political commentary and video curation blog styled as a clean retro newspaper, featuring a secure decoupled administrative CMS desk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
